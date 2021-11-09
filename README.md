@@ -6,14 +6,14 @@
 
 🌱 I'm currently pursuing my Master's of Environmental Data Science (MEDS) degree at the Bren School of Environmental Science and Management at UC Santa Barbara. 
 
+### Education
+* BS (2021): Marine Biology (University of California, Santa Cruz)
+
 ### Marine and Data Science Experience
 * (06/20 - 08/20): Scripps Institution of Oceanography Undergraduate Research Fellowship 
 * (01/20 - 03/20): National Marine Fisheries Service Internship (NOAA Fisheries Ecology Division)
 * (08/19 - 09/19): R/V Sikuliaq Crew Memeber - Science, Technology, Engineering And Math Student Experiences Aboard Ships 
 * (06/19 - 07/19): Volunteer Research Diver, Fiji Marine Conservation Expedition (Global Visions International) 
-
-### Education
-* BS (2021): Marine Biology (University of California, Santa Cruz)
 
 <!--
 **charleshendrickson/charleshendrickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
